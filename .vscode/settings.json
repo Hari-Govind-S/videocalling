@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/7159010c-56c6-4597-86c2-71d61eb7f15b/microsoft.web/sites/subscriptions/7159010c-56c6-4597-86c2-71d61eb7f15b/resourceGroups/resourcetrial1/providers/Microsoft.Web/sites/videocallingapp",
+    "appService.deploySubpath": "."
+}
